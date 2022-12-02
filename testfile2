@@ -1,3 +1,6 @@
-system.debug(hello...)
+system.debug('hello...');
+
+
+değişti
 
 
